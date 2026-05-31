@@ -176,9 +176,6 @@ Passionate about building practical data-driven solutions that solve real-world 
 
 Feel free to connect, collaborate, or provide feedback on this project.
 
-www.linkedin.com/in/easynett | www.github.com/easynett | info2easynett@gmail.com
 ---
 
-## TAGS
-
-`#DataSparks` `#DataForce` `#DataAnalytics` `#LearningJourney` `#MSExcel`
+www.linkedin.com/in/easynett | www.github.com/easynett | info2easynett@gmail.com
