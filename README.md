@@ -8,8 +8,6 @@ I came up with an idea, and now it's live — a fully functional Semi-Automated 
 
 ## SCREENSHOTS
 
-> Replace the image paths below with your actual screenshots after uploading them to the repository.
-
 ### Dashboard / Main Interface
 ![Dashboard](images/dashboard.png)
 
@@ -178,6 +176,7 @@ Passionate about building practical data-driven solutions that solve real-world 
 
 Feel free to connect, collaborate, or provide feedback on this project.
 
+www.linkedin.com/in/easynett | www.github.com/easynett | info2easynett@gmail.com
 ---
 
 ## TAGS
