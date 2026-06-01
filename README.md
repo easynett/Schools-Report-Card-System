@@ -8,13 +8,13 @@ I came up with an idea, and now it's live — a fully functional Semi-Automated 
 
 ## SCREENSHOTS
 
-### Dashboard / Main Interface
-![Dashboard](images/dashboard.png)
+### End of Session Leaderboard
+![Leaderboard](images/leaderboard.png)
 
-### 1st Term Broadsheet
-![1st Term](images/1st-term.png)
+### Broadsheet Interface
+![broadsheet](images/broadsheet.png)
 
-### Individual Student Report Card
+### Individual Student Report Card (1st, 2nd & 3rd term)
 ![Report Card](images/report-card.png)
 
 ### Comments & Ranking Sheet
