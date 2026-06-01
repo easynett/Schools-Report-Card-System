@@ -108,9 +108,11 @@ Class Teacher comments and Principal comments are selected from dropdown lists o
 
 ## FUTURE UPDATE
 
-As a Data Analyst, uncovering insights and telling data-driven stories is part of our role. A future update will include a **Leaderboard Dashboard**.
+As a Data Analyst, uncovering insights and telling data-driven stories is part of our role. A near future update will include a **Leaderboard**.
 
-### KPI
+The LeaderBoard would come as a Dashboard which will quickly provide answer to questions most pertinent to a school such as:
+
+### KPI (Key Performance Indicator)
 
 - Total Number of Students
 - Session Overall Best Student
