@@ -170,7 +170,7 @@ Worksheet PW: 222
 
 ## AUTHOR
 
-**Ishaq Ismail**
+**Ishaq Ajayi Ismail**
 
 Data Analyst | Excel Developer | Business Intelligence Enthusiast
 
